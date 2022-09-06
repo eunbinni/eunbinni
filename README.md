@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Eunbin%20shin&fontSize=90)
 
-### ⚒ tech skill ⚒
+#### ⚒ tech stack ⚒
+<img src="https://img.shields.io/badge/Python-#3776AB?style=flat-square&logo=Python&logoColor=white"/>
 
 
 <!--
