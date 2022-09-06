@@ -3,13 +3,16 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Eunbin%20shin&fontSize=90)
 
 
+<div align=center>
+#### I'm in .. 🏫
+Konkuk University Applied Statistics 2nd grade
 
 <div align=center>
   
 #### SNS list 💌
   
-[![Tistory](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=Tistory&link=https://binnni.tistory.com/)](https://binnni.tistory.com/)      [![Gmail](http://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&link=dnflrha12@gmail.com)](dnflrha12@gmail.com)
-
+[![Tistory](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=Tistory&link=https://binnni.tistory.com/)](https://binnni.tistory.com/)   
+[![Instagram](http://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&link=https://www.instagram.com/_binnni/)](https://www.instagram.com/_binnni/)
 
 
 
