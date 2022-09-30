@@ -10,7 +10,7 @@ Konkuk University Applied Statistics 2nd grade
 
 <div align=center>
   
-#### SNS 💌
+#### SNS list 💌
   
 [![Tistory](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=Tistory&link=https://binnni.tistory.com/)](https://binnni.tistory.com/)   
   <a href="https://www.instagram.com/_binnni/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Blogger&logoColor=white"/></a>
