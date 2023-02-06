@@ -6,8 +6,10 @@
 <div align=center>
   
 #### I'm in 🏫
-Konkuk University 
+Konkuk University  
+ 
   Major : Applied Statistics
+  
   Minor : Computer Engineering
 
 <div align=center>
