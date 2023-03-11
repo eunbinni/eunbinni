@@ -9,6 +9,7 @@
 Konkuk University  
  
   Major in Applied Statistics
+  
   Minor in Computer Engineering
 
 <div align=center>
