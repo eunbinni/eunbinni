@@ -5,12 +5,11 @@
 
 <div align=center>
   
-### I'm in 🏫
+### I'm in .. 🏫
 Konkuk University  
  
-  Major : Applied Statistics
-  
-  Minor : Computer Engineering
+  Major in Applied Statistics
+  Minor in Computer Engineering
 
 <div align=center>
   
