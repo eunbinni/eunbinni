@@ -12,15 +12,6 @@
 
 ---
 
-### 🏆 Awards
-- **Google Solution Challenge Top 100** / 2024.04
-- **Hult Prize Konkuk 3rd Prize** / 2024.02
-- **Seoul Big Data Campus Contest 4th Prize** / 2023.04
-- **AI Connect Korean Documentation Summary Contest** / 2023.04
-- **Konkuk University Applied Statistics Contest 1st Prize** / 2022.11
-
----
-
 ### ✨ Skills
 
 <img src="https://img.shields.io/badge/Python-0769AD?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"> <br>
