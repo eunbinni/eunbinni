@@ -1,6 +1,6 @@
 ### 💼 Internship
 
-- **NAVER Cloud** *MLOps Engineer* / 2024.08 - 
+- **NAVER Cloud** *MLOps Engineer* / 2024.08 - 2025.02
 - **Marketdesigners(Tutoring)** *Machine Learning Engineer* / 2024.03 - 2024.06
 - **SNUH BMI Lab** *NLP Researcher* / 2023.06 - 2023.09
 
